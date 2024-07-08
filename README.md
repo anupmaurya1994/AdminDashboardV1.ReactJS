@@ -47,25 +47,21 @@ Start the server
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/dashborad.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/log-in.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/sign-up.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/list.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/add-pop-up.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/linechart.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/barchart.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV1.ReactJS/blob/main/src/assest/piechart.png)
 
 
 ## License
